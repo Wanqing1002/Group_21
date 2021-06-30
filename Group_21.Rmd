@@ -1,5 +1,5 @@
 ---
-title: "Analysisi of the World happiness"
+title: "Analysis of the World happiness"
 author: 'Group 21'
 date: "2021/6/24"
 output:
@@ -37,7 +37,7 @@ happiness <- read_csv("Group_21.csv")
 ```
 
 # Introduction{#sec:Intro}
-The World Happiness Report is a landmark survey of the state of global happiness. However, because of the covid-19 prevalence, people’s lives get reshaped largely. More seriously, As the pandemic struck, there was a large and immediate decline in mental health in many countries worldwide. Therefore, it seems necessary to give more importance to happiness and well-being thereby better achieving and measuring social and economic development. Our study mainly serves two purposes. One is about finding and evaluating the influential factors of happiness. The other is about tracing the size and distribution of happiness impacts. We adopts the multiple regression analysis, using the data from the Gallup World Poll. There are six variables to measure happiness scores. After processing the data, we finally get three appropriate influential factors.
+Happiness depends on a lots of factors in our lives and also the things going on in our surrounding world.This World happiness survey gives the insights on how happiness changes according to some factors in our lives. As we know covid has a huge impact on our lives that it has mae us think about the Happiness in the World and the factors affecting it.More seriously, As the pandemic struck, there was a large and immediate decline in mental health in many countries worldwide. Therefore, it seems necessary to give more importance to happiness and well-being thereby better achieving and measuring social and economic development. Our study mainly serves two purposes. One is about finding and evaluating the influential factors of happiness. The other is about tracing the size and distribution of happiness impacts. We adopts the multiple regression analysis, using the data from the Gallup World Poll. There are six variables to measure happiness scores. After processing the data, we finally get three appropriate influential factors.
 
 At first, we choose seven variables with one outcome variable, Happy score and six explanatory variables, they are Logged GDP per capita, Social support, Healthy life expectancy, Freedom to make life choices, Generosity and Perceptions_of_corruption. The following is interpretations of each variable.
 
